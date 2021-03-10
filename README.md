@@ -1,6 +1,6 @@
 # A reforma do marco legal do petróleo sob duas visões de política energética
 
-### Autores: Fausto Barros de Sá Teles
+### Autor: Fausto Barros de Sá Teles
 
 ## Introdução
 
