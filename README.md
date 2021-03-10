@@ -19,7 +19,7 @@ Entre 2016 e 2018, o governo Temer realizou uma reforma no marco legal brasileir
 * **Gráficos** – visualizações restantes apresentadas na dissertação (Figura 9 e Figura 10).
 * **Fontes** – detalhamento das fontes dos dados com links de acesso.
 
-**Dados_partilha_mestrado.xls**: contém 2 planilhas.
+**Dados_partilha_mestrado.xls**: contém 2 planilhas. 
 * **Dados** – dados de resultados dos leilões sob o regime de partilha, de 2013 e 2019.
 * **Fontes** – detalhamento das fontes dos dados com links de acesso.
 
